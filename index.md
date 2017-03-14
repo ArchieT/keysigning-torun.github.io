@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Małe keysigning party w Toruniu
+## raz na jakiś czas, póki co spontanicznie i pierwszy raz
 
-You can use the [editor on GitHub](https://github.com/ArchieT/keysigning-torun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## O co chodzi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Robimy małe keysigning party. Kiedy, ustalamy tu: http://doodle.com/poll/k7tdyhu863am55n4. Ale raczej w ciągu tygodnia albo półtora od dnia liczby π.
 
-### Markdown
+Gdzie: zapewne w pokoju Koła Naukowego Informatyków, F204 na Wydziale Matematyki i Informatyki UMK.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Powiedzmy że oprócz pisania tutaj możemy obgadywać szczegóły na Discordzie: https://discord.gg/HCJ5uJE
 
-```markdown
-Syntax highlighted code block
+## Przebieg
 
-# Header 1
-## Header 2
-### Header 3
+Low-effort initiative, na szybko i full spontan.
 
-- Bulleted
-- List
+Niech każdy chcący wrzuci swój klucz publiczny na keyserver albo mi podeśle, ja je wtedy powrzucam na pgp.mit.edu i pool.sks-keyservers.net. Ewentualnie Ci co nie chcą ich wrzucać na keyserver mogą o tym wspomnieć i roześle się je do uczestników mailowo+discordowo+może fizyczny p2p.
 
-1. Numbered
-2. List
+Niech każdy chcący poda mi swój fingerprint.
 
-**Bold** and _Italic_ and `Code` text
+Ja albo ktoś albo każdy sobie wydrukuje listę fingerprintów, i później każdy będzie każdemu patrzeć na dokument tożsamości i porównywać z pozycją na liście i sobie zaznaczać. Lista będzie przesłana na krótko przed wydarzeniem lub jeżeli będą wydruki przygotowane to może nawet chwilę przed, oprócz tego zupełnie publicznie będzie opublikowana surowa lista fingerprintów bez nazwisk.
 
-[Link](url) and ![Image](src)
-```
+Następnie na przestrzeni około tygodnia każdy wysyła na każdy mail z nazwiskowych UID w kluczu każdej sprawdzonej osoby jej klucz publiczny z podpisanym **tylko tym jednym konkretnym UID na adres z którego wysyłamy klucz**. Zrobić to można za pomocą skryptu CAFF: http://bloc.eurion.net/archives/2010/gpg-key-signing-with-caff/ https://wiki.debian.org/caff
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Kto pisze ten tekst
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArchieT/keysigning-torun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ja: http://archiet.platinum.edu.pl
