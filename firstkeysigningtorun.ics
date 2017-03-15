@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Doodle AG//Doodle//EN
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Warsaw
+METHOD:PUBLISH
+BEGIN:VEVENT
+ORGANIZER:MAILTO:archiet@platinum.edu.pl
+SUMMARY:Małe keysigning party
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+URL:http://doodle.com/poll/k7tdyhu863am55n4
+LOCATION:Wmii, Fryderyka Chopina, Toruń
+DESCRIPTION:http://archiet.platinum.edu.pl/keysigning-torun\nInitiated by Michał Krzysztof Feiler\nZrobimy małe keysigning party, w pokoju Koła.\nSzczegóły: http://archiet.platinum.edu.pl/keysigning-torun/\n\n\nParticipants:\n- Michał Krzysztof Feiler\n- ksx4system\n- Beata Zejfert\n- Daniel Lewan\n\n\nhttp://doodle.com/poll/k7tdyhu863am55n4
+DTSTAMP:20170315T121919Z
+UID:1490032800000-284197540@doodle.biz
+DTSTART:20170320T180000Z
+DTEND:20170320T190000Z
+END:VEVENT
+END:VCALENDAR
